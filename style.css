@@ -33,23 +33,21 @@ body{
     font-size: 22px;
 }
 
-.tarefa {
+.tarefa{
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
-    
 }
 
-.delete {
+.delete{
     background-color: red;
     color: #fff;
     border-radius: 6px;
 }
 
-.edit {
+.edit{
     background-color: blue;
     color: #fff;
     border: none;
     border-radius: 6px;
 }
- 
